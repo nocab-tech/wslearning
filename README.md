@@ -1,7 +1,15 @@
 # http://books.toscrape.com Webscrapper Learning Project
 
 ## About
-This project was started as way to practise and learn basic webcrawlling and webscrapping using Python as well as a way to learn how to use GitHub. This project currently uses Panda and BeautifulSoup Python Module. I intend to work on this project further and use a real website like IMDB. This project was inspired by my career aspiration in Data Analysis.
+This project was started as way to practise and learn basic webcrawlling and webscrapping using Python as well as a way to learn how to use GitHub. This project currently uses Panda and BeautifulSoup Python Module. I intend to work on this project further and use a real website like IMDB. This project was inspired by my career aspiration in Data Analysis. I tried to simulate an actual workload in the project. Demonstrating the Creation of a Database and Processing of the Database.
+
+## File Descriptions
+Web_Scraper.py - The Main Scraper and Crawller.
+Brief_Overview.py - A Small Script to give a Brief Overview of all information gathered.
+Book_Stock.py - Checks if there is any books currently out of stock.
+Book_Count.py - This counts all books in each category
+Average_Rating - Shows the Average Ratings of the books in each category
+Average_Price - Shows the Average Price of the books in each category
 
 ## How does it work?
 
