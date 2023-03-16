@@ -1,7 +1,7 @@
-# http://books.toscrape.com Webscrapper Learning Project
+# http://books.toscrape.com Webscraper Learning Project
 
 ## About
-This project was started as way to practise and learn basic webcrawlling and webscrapping using Python as well as a way to learn how to use GitHub. This project currently uses Panda and BeautifulSoup Python Module. I intend to work on this project further and use a real website like IMDB. This project was inspired by my career aspiration in Data Analysis. I tried to simulate an actual workload in the project. Demonstrating the Creation of a Database and Processing of the Database.
+This project was started as way to practise and learn basic webcrawling and webscraping using Python as well as a way to learn how to use GitHub. This project currently uses Panda and BeautifulSoup Python Module. I intend to work on this project further and use a real website like IMDB. This project was inspired by my career aspiration in Data Analysis. I tried to simulate an actual workload in the project. Demonstrating the Creation of a Database and Processing of the Database.
 
 ## File Descriptions
 Web_Scraper.py - The Main Scraper and Crawller.
